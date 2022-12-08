@@ -52,6 +52,7 @@ yarn dev
 ## Step6 - Claim 
 1. Go to the discord server and create a text channel
 2. Typing `/claim` on the discord message area then press the enter
+![image](./img//input.png)
 3. The bot should return a message to you. (if it's not please open a ticket)
 4. After 24h, Click the link that the bot gave you
 5. Claim!
