@@ -1,6 +1,6 @@
 # Claim Discord Developer Badge
-> This is a open source repo for people who can't not coding  
-
+> This is a open source repo for people who can not coding  
+> Or Too lazy to code that lol
 # Step By Step
 ## Step1 - Install dependency
 - [Node.js](https://nodejs.org/en/)
