@@ -8,7 +8,7 @@
 ```bash
 npm -i -g yarn
 ```
-## Step2 - Install code pendenncy
+## Step2 - Install code dependency
 > Open cmd or any terminal enter command below
 ```bash
 yarn  
@@ -20,22 +20,22 @@ yarn install
 - [Discord Developer Portal](https://discord.com/developers/applications)
 1. New Application
 2. Enter the Name
-3. Copy the APPLICATION ID to code base `.env` (if the file is not exist, create a new one) 
-4. `.env` content should be look like below
+3. Copy the APPLICATION ID to code base `.env` (if the file does not exist, create a new one) 
+4. `.env` content should look like below
 ```
 TOKEN=<Token>
 CLIENTID=<APPLICATION ID>
 GUILDID=<DISCORD SERVER ID>
 ```
-5. On the left hand side bar click `Bot` tab
+5. On the left-hand sidebar click the `Bot` tab
 6. Add Bot
 7. Reset Token
-8. Copy the Token to code base `.env` (if the file is not exist, create a new one)
-9. On the left hand side bar click `OAuth2` tab > `URL Generator` tab
-10. Click `Bot` and `applications.commands` checkbox of the `scope` area
-11. Click `Adminisrator` checkbox of the `Bot Premissions` area
-12. Copy the link and paste in to browser url and hit the enter
-13. Create a discord server and set it to community server
+8. Copy the Token to code base `.env` (if the file does not exist, create a new one)
+9. On the left-hand sidebar click `OAuth2` tab > `URL Generator` tab
+10. Click `Bot` and `applications.commands` checkbox in the `scope` area
+11. Click the `Administrator` checkbox in the `Bot Permissions` area
+12. Copy the link and paste it to the browser URL and hit the enter
+13. Create a discord server and set it to a community server
 14. Invite Bot to Server
 ## Step4 - Register Command
 > Open cmd or any terminal enter command below  
@@ -50,10 +50,10 @@ yarn dev
 ```
 
 ## Step6 - Claim 
-1. Go to discord server and create a text channel
-2. typing `/claim` on discord message area then press enter
-3. bot should be return a message for you. (if it's not please open a ticket)
-4. After 24h, Click the link that bot give you
+1. Go to the discord server and create a text channel
+2. Typing `/claim` on the discord message area then press the enter
+3. The bot should return a message to you. (if it's not please open a ticket)
+4. After 24h, Click the link that the bot gave you
 5. Claim!
 
 # QA
