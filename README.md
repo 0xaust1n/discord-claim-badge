@@ -2,6 +2,11 @@
 > This is a open source repo for people who can not coding  
 > Or Too lazy to code that lol
 # Step By Step
+
+## Step0 - Downlaod codebase
+- Clone it 
+- Download the zip and unzip it
+- Change directory to your code base location
 ## Step1 - Install dependency
 - [Node.js](https://nodejs.org/en/)
 - [Yarn](https://yarnpkg.com/getting-started/install)
@@ -10,6 +15,7 @@
 npm i -g yarn
 ```
 ## Step2 - Install code dependency
+
 > Open cmd or any terminal enter command below
 ```bash
 yarn  
