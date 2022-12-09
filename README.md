@@ -5,6 +5,7 @@
 ## Step1 - Install dependency
 - [Node.js](https://nodejs.org/en/)
 - [Yarn](https://yarnpkg.com/getting-started/install)
+> Open cmd or any terminal enter command below  
 ```bash
 npm -i -g yarn
 ```
@@ -21,22 +22,23 @@ yarn install
 1. New Application
 2. Enter the Name
 3. Copy the APPLICATION ID to code base `.env` (if the file does not exist, create a new one) 
+![image](./img//env.png)
 4. `.env` content should look like below
 ```
 TOKEN=<Token>
 CLIENTID=<APPLICATION ID>
 GUILDID=<DISCORD SERVER ID>
 ```
-5. On the left-hand sidebar click the `Bot` tab
-6. Add Bot
-7. Reset Token
-8. Copy the Token to code base `.env` (if the file does not exist, create a new one)
-9. On the left-hand sidebar click `OAuth2` tab > `URL Generator` tab
-10. Click `Bot` and `applications.commands` checkbox in the `scope` area
-11. Click the `Administrator` checkbox in the `Bot Permissions` area
-12. Copy the link and paste it to the browser URL and hit the enter
-13. Create a discord server and set it to a community server
-14. Invite Bot to Server
+1. On the left-hand sidebar click the `Bot` tab
+2. Add Bot
+3. Reset Token
+4. Copy the Token to code base `.env` (if the file does not exist, create a new one)
+5. On the left-hand sidebar click `OAuth2` tab > `URL Generator` tab
+6.  Click `Bot` and `applications.commands` checkbox in the `scope` area
+7.  Click the `Administrator` checkbox in the `Bot Permissions` area
+8.  Copy the link and paste it to the browser URL and hit the enter
+9.  Create a discord server and set it to a community server
+10. Invite Bot to Server
 ## Step4 - Register Command
 > Open cmd or any terminal enter command below  
 > Please make sure paste the discord server id to `.env` file
