@@ -7,7 +7,7 @@
 - [Yarn](https://yarnpkg.com/getting-started/install)
 > Open cmd or any terminal enter command below  
 ```bash
-npm -i -g yarn
+npm i -g yarn
 ```
 ## Step2 - Install code dependency
 > Open cmd or any terminal enter command below
