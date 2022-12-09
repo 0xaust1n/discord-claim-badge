@@ -39,12 +39,14 @@ GUILDID=<DISCORD SERVER ID>
 2. Add Bot
 3. Reset Token
 4. Copy the Token to code base `.env` (if the file does not exist, create a new one)
-5. On the left-hand sidebar click `OAuth2` tab > `URL Generator` tab
-6.  Click `Bot` and `applications.commands` checkbox in the `scope` area
-7.  Click the `Administrator` checkbox in the `Bot Permissions` area
-8.  Copy the link and paste it to the browser URL and hit the enter
-9.  Create a discord server and set it to a community server
-10. Invite Bot to Server
+5. Turn on All Privileged Gateway Intents toggle.
+![image](img/privileged.png)
+6. On the left-hand sidebar click `OAuth2` tab > `URL Generator` tab
+7.  Click `Bot` and `applications.commands` checkbox in the `scope` area
+8.  Click the `Administrator` checkbox in the `Bot Permissions` area
+9.  Copy the link and paste it to the browser URL and hit the enter
+10. Create a discord server and set it to a community server
+11. Invite Bot to Server
 ## Step4 - Register Command
 > Open cmd or any terminal enter command below  
 > Please make sure paste the discord server id to `.env` file
